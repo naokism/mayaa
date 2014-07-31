@@ -2,7 +2,7 @@
 <!DOCTYPE library
         PUBLIC "-//The Seasar Foundation//DTD Mayaa Library Definition 1.0//EN"
         "http://mayaa.seasar.org/dtd/mld_1_0.dtd">
-<library uri="http://com.github.durave/mayaa">
+<library uri="http://com.github.naokism/mayaa">
 
     <description>The Mayaa customize processors</description>
 
