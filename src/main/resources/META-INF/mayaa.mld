@@ -10,7 +10,7 @@
                class="com.github.naokism.mayaa.processor.DynamicAttributeProcessor">
         <description>m:attribute injection</description>
         <property name="name" required="true"/>
-        <property name="value" required="true" expectedClass="java.lang.String"/>
+        <property name="value" expectedClass="java.lang.String"/>
         <property name="escapeAmp" expectedClass="boolean" default="true"/><!-- since 1.1.25 -->
     </processor>
 
